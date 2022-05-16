@@ -56,3 +56,12 @@
                       (__)\       )\/\
                           ||----w |
                           ||     ||
+
+### Contato:
+   Criticas, sugestões, elogios:
+       
+    igor.rafael.briano@gmail.com
+    
+### Autor:
+
+    Igor Rafael
