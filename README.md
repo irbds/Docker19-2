@@ -29,7 +29,7 @@
                      ||     ||
                      
 ### Como utilizar:
-  1. faça clone o clone desse projeto com o seguinte comando:</br>
+  1. faça o clone desse projeto com o seguinte comando:</br>
   
       SSH:
       
